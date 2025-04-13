@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhernandezzz
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Discrete Structures & Multivariable Calculus at UW Tacoma
+- 👀 I’m interested in Computer Science and Mathematics
+- 🌱 I’m currently learning Algorithms, Programming Languages, and Software Development
 - 📫 How to reach me: jonathanhernandeze05@gmail.com
 
 <!---
