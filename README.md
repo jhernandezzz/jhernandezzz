@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhernandezzz
 - 👀 I’m interested in Computer Science and Mathematics
-- 🌱 I’m currently learning Algorithms, Programming Languages, and Software Development
+- 🌱 I’m currently learning Computer Operating Systems, Database Systems Design, and Secure Coding Principles
 - 📫 How to reach me: jonathanhernandeze05@gmail.com
 
 <!---
